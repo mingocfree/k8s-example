@@ -2,6 +2,9 @@
 
 ![workflows](static/workflows.png)
 
+## CircleCI
+![updater](static/circleci.png)
+
 ## Argo CD Image Updater
 
 ![updater](static/image-updater.png)
