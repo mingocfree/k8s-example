@@ -1,0 +1,9 @@
+[submodule "k8s-example-infra"]
+	path = k8s-example-infra
+	url = git@github.com:mingocfree/k8s-example-infra.git
+[submodule "k8s-example-apps"]
+	path = k8s-example-apps
+	url = git@github.com:mingocfree/k8s-example-apps.git
+[submodule "k8s-example-drf-app"]
+	path = k8s-example-drf-app
+	url = git@github.com:mingocfree/k8s-example-drf-app.git
